@@ -179,6 +179,7 @@ def top_station(df):
     df['routes'] = df['Start Station']+ " " + df['End Station']
     a = df['routes'].value_counts().idxmax()
     print(f'Most Combined Stations: {a}.')
+    print ( "\nThis took %s seconds." % (time.time () - start_time) )
 
 
 def t_trip(df):
