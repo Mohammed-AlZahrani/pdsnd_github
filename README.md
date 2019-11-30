@@ -17,7 +17,11 @@ washington.csv
 
 ### Credits
 https://philipribbens.com/bike-share-data-analysis/
+
 https://www.kaggle.com/samratp/bike-share-analysis
+
+https://prvnirupama.wordpress.com/2017/10/19/5-useful-lessons-from-udacitys-bikeshare-data-project/
+
 
 
 
