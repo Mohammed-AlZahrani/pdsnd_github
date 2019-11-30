@@ -7,7 +7,7 @@ bikeshare project
 ### Description
 bikeshare project is a program that filter data from three states, Chicage , New york city 
 and Washington DC by user inputs to check statistics informations that let the user 
-understand what is the data can explain so user can take the better decisions. 
+understand what is the data can explain so user can take the better decisions that increase the businesses. 
 
 ### Files used
 bikeshare.py
