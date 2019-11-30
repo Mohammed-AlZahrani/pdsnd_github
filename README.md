@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+Project bikeshare statistics program was created on Friday 29 of November 2019.
 
 ### Project Title
-Replace the Project Title
+bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+bikeshare project is a program that filter data from three states, Chicage , New york city 
+and Washington DC by user inputs to check statistics informations that let the user 
+understand what is the data can explain so user can take the better decisions. 
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://philipribbens.com/bike-share-data-analysis/
+https://www.kaggle.com/samratp/bike-share-analysis
+
+
 
